@@ -18,6 +18,6 @@ service:
 color:
    circle: black
    oval: black
-   triangle: black
-   rectangle: black
+   triangle: red
+   rectangle: red
    square: black    
